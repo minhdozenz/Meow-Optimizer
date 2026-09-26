@@ -24,11 +24,6 @@ Ngoài ra, các tác giả xin tặng kèm một file để vô hiệu hoá NDU 
 
 Khuyến khích anh em trải nghiệm trên môi trường thử nghiệm hoặc tạo điểm khôi phục (System Restore) trước khi sử dụng để đảm bảo an toàn tuyệt đối.
 
-🔗 Trải nghiệm & Đóng góp ý kiến:
-Link Tải về / Github: (Thêm link của bạn vào đây)
-
-Hướng dẫn sử dụng: (Thêm file Readme hoặc link hướng dẫn nếu có)
-
 Rất mong nhận được phản hồi và góp ý chân thành từ anh em để các phiên bản Meow Optimizer tiếp theo hoàn thiện hơn nữa!
 
 Cảm ơn mọi người đã ủng hộ! 🐾
